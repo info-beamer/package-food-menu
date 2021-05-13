@@ -29,7 +29,7 @@
         "ui_width": 6,
         "name": "font",
         "type": "font",
-        "default": "linden-hill.ttf"
+        "default": "linden-hill.otf"
     }, {
         "title": "Font Size",
         "ui_width": 4,
